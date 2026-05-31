@@ -1,56 +1,26 @@
-# Machine Learning Specialization – Andrew Ng (Coursera)
+# ML Specialization – Andrew Ng
 
-A personal learning repository tracking my progress through the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew Ng on Coursera. All Jupyter notebooks (`.ipynb`) document my implementations, experiments, and notes from the course.
-
----
-
-## ✅ Progress
-
-### Course 1 — Supervised Machine Learning: Regression and Classification
-
-Completed. Topics covered:
-
-#### Regression
-- **Linear Regression** (univariate & multivariate)
-- Cost function (Mean Squared Error)
-- Gradient Descent — intuition and implementation
-- Feature scaling and vectorized implementation
-
-#### Classification
-- **Logistic Regression** (binary classification)
-- Sigmoid function and decision boundaries
-- Cost function for logistic regression (log loss)
-- Gradient Descent for logistic regression
-
-#### Regularization
-- Problem of **overfitting** — underfitting vs. overfitting vs. just right
-- **L2 Regularization** (Ridge) applied to both linear and logistic regression
-- Regularized cost functions and regularized gradient descent
+My notes and work from Andrew Ng's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera. Everything is in the `.ipynb` files.
 
 ---
 
-## 📁 Repository Structure
+## What I've covered so far
 
-```
-.
-├── regression/
-│   └── *.ipynb         # Linear regression notebooks
-├── classification/
-│   └── *.ipynb         # Logistic regression notebooks
-└── README.md
-```
+**Course 1 – Supervised Machine Learning**
 
-> Structure may evolve as more courses are completed.
+Started with the two main problem types — regression and classification.
+
+For regression, I worked through linear regression with both single and multiple features, built intuition for the cost function (MSE), and implemented gradient descent from scratch.
+
+Classification followed a similar path but with logistic regression — the sigmoid function, log loss, and decision boundaries. Then wrapped up with overfitting: what causes it, how to spot it, and how regularization fixes it for both model types.
 
 ---
 
-## 🚧 Upcoming
+## What's next
 
-- Course 2: Advanced Learning Algorithms (Neural Networks, Decision Trees)
-- Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+- Course 2: Neural networks, decision trees
+- Course 3: Unsupervised learning, reinforcement learning
 
 ---
 
-## 🔗 Course Link
-
-[Machine Learning Specialization on Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
+[Course link](https://www.coursera.org/specializations/machine-learning-introduction)
